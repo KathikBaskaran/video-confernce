@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3df9af649942fefcb196",
+    "revision": "5e6077112483a6b9b8a7",
     "url": "/video-conf/static/css/main.f61353f1.chunk.css"
   },
   {
-    "revision": "3df9af649942fefcb196",
-    "url": "/video-conf/static/js/main.0c4f89a0.chunk.js"
+    "revision": "5e6077112483a6b9b8a7",
+    "url": "/video-conf/static/js/main.24ceae36.chunk.js"
   },
   {
     "revision": "c92635a476b988961914",
@@ -24,23 +24,23 @@ self.__precacheManifest = [
     "url": "/video-conf/static/media/OpenSans-Bold.f5331cb6.ttf"
   },
   {
-    "revision": "ef69e791ae57424b1901a28e2ad4d708",
-    "url": "/video-conf/static/media/arrow-right.ef69e791.cur"
-  },
-  {
     "revision": "c720fb4f16d69cc3c5dba61bc96cdc0d",
     "url": "/video-conf/static/media/arrow-left.c720fb4f.cur"
   },
   {
-    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
-    "url": "/video-conf/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+    "revision": "ef69e791ae57424b1901a28e2ad4d708",
+    "url": "/video-conf/static/media/arrow-right.ef69e791.cur"
   },
   {
     "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
     "url": "/video-conf/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
-    "revision": "5da2010914022da88f8d390f42e59d67",
+    "revision": "e1c83f9474e0cc1d84a13c6d1ddf3ca5",
+    "url": "/video-conf/static/media/OpenSans-SemiBold.e1c83f94.ttf"
+  },
+  {
+    "revision": "ca593a5d09940218d665ba28c7d40cbd",
     "url": "/video-conf/index.html"
   }
 ];
